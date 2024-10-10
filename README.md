@@ -1,7 +1,7 @@
 # Aarchives_textile-website
 ## Site internet pour la marque de vêtements Aarchives, réalisé sur Wordpress dans le cadre de mon travail de fin d'étude.
 
-Le site va bientôt être hébergé en ligne, voici quelques aperçus du site web :
+Le site va bientôt être hébergé en ligne à l'adresse suivante; https://aarchives.shop/.Voici quelques aperçus du site web :
 
 ### Page d'accueil;
 ![screencapture-iepsa-aarchives-textile-home-2024-09-05-16_12_10](https://github.com/user-attachments/assets/91081653-31f0-4cba-9ff3-08fc3803b901)
